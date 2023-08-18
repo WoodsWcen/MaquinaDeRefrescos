@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MaquinaDeRefrescos
+comment1.params=costo\ cantidad\ caja
+comment1.target=MaquinaDeRefrescos(int,\ int,\ int)
+comment10.params=cantRefrescos
+comment10.target=void\ llenarMaquina(int)
+comment11.params=
+comment11.target=void\ entregarRefresco()
+comment2.params=
+comment2.target=int\ getCosto()
+comment3.params=
+comment3.target=int\ getCantidad()
+comment4.params=
+comment4.target=int\ getCaja()
+comment5.params=costo
+comment5.target=void\ setCosto(int)
+comment6.params=cantidad
+comment6.target=void\ setCantidad(int)
+comment7.params=caja
+comment7.target=void\ setCaja(int)
+comment8.params=
+comment8.target=void\ solicitarRefresco()
+comment9.params=costoActual
+comment9.target=void\ actualizarPrecio(int)
+numComments=12
